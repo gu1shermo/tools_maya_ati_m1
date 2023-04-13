@@ -51,19 +51,17 @@ Auto Shader      |
 
 ## Installation
 
-To install each of the tools, follow these steps:
+To install each one of the tools, follow these steps, which are common for any Python script:
 
 1. Download the latest version from the [releases](https://github.com/yourusername/maya-light-manager/releases) page.
-2. Extract the ZIP file to a folder on your computer.
-3. In Maya, open the Script Editor (Window > General Editors > Script Editor).
-4. In the Script Editor, select "Python" as the language and open the downloaded script file.
-5. Press "Ctrl+Enter" to execute the script.
+2. Open Maya and go to the Script Editor by selecting `Window > General Editors > Script Editor`.
+3. In the Script Editor, open the Python script you want to install by selecting `File > Open Script...` and browsing to the file location.
+4. Select all of the code in the file and drag it into the Python tab of the Script Editor.
+5. Save the script to a shelf button by selecting File > Save Script to Shelf... and choosing a shelf to save the button to.
 
-## Usage
+Once you've saved the script to a shelf button, you can easily access it from within Maya by clicking on the button on the shelf. You can also customize the button by right-clicking on it and selecting "Button Editor", where you can change the name, icon, and other properties of the button.
 
-1. To use the Maya Light Manager, simply open the tool. From there, you can edit any attribute of all the lights in the scene (including Arnold lights).
-2. To use the Maya Copy Light Attributes, TODO
-3. To use the Maya Auto Shader, TODO
+Note that the exact steps for installing a script may vary depending on the script and the version of Maya you are using. It's always a good idea to consult the documentation or instructions provided with the script to ensure that you are installing it correctly.
 
 ## License
 The Maya Light Manager is released under the [MIT License](LICENSE), which means you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions. See the full license for details.

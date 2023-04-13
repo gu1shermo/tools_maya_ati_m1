@@ -24,7 +24,7 @@ Light Attribute Copier       |
 :-------------------------:   |
 ![](./screenshots/tool2.jpg) |
 
-### Copy Light Attributes: how it works?
+### Usage Copy Light Attributes
 <ol>
   <li>Select one light source</li>
   <li>Select the source light attributes you want to copy on the destination lights</li>
@@ -35,10 +35,19 @@ Light Attribute Copier       |
 
 ## TOOL3: Auto Shader
 
-The Maya Auto Shader is a tool ...
+The Maya Auto Shader tool is a Python script that allows users to easily attach texture maps to any object in the scene. The tool supports attaching base color, metalness, specular, and normal maps. Users can either specify a folder and a regex pattern to automatically find the textures, or they can choose the texture files individually.
 
-### Features Auto Shader
-TODO
+Auto Shader      |  
+:-------------------------:   |
+![](./screenshots/tool3.jpg) |
+
+### Usage Auto Shader
+<ol>
+  <li>Choose a folder path that contains your texture maps.</li>
+  <li>You can specify a regex pattern to filter your files(prefix, suffix, and keyword for the concerned map).</li>
+  <li>If files are missing (pink square), you can choose the filepath by clicking on the square.</li>
+  <li>Click the Apply Textures button</li>
+</ol>
 
 ## Installation
 

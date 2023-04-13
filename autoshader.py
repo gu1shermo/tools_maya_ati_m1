@@ -45,13 +45,21 @@ class AutoShaderDialog(QtWidgets.QDialog):
         f"""
         <ul>
             <p>To use this tool do the following instructions : </p>
-            <li>If you want to import textures from a folder click on the radio button all at the bottom of the window </li>
+            <li>
+                Choose a folder path that contains your texture maps.
+            </li>
             <br>
-            <li>Fill the maps to correspond to your files names and respect the nomenclature, check the checkbox to tell which texture type you want</li>
+            <li>
+            You can specify a regex pattern to filter your files(prefix, suffix, and keyword for the concerned map).
+            </li>
             <br>
-            <li>If you want to import each file specificly then select 'selected' and do this : </li>
+            <li>
+            If files are missing (pink square), you can choose the filepath by clicking on the square.
+            </li>
             <br>
-            <li>Click below base_color etc and choose your file</li>
+            <li>
+            Click on the Apply Textures button
+            </li>
             <br>
             <li>When you have your wanted textures clcick on the 'Apply textures' button</li>
         </ul>"""

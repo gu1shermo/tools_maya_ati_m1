@@ -16,9 +16,10 @@ The Maya Light Manager comes with a range of features that can help you streamli
 - **Attribute editing:** Change any attribute of a selected light, including color, intensity, cone angle, and decay rate.
 - **Customization:** Add/remove any attribute you want to appear in the interface.
 
-## TOOL2: Copy Light Attributes
+## TOOL2: Light Attribute Copier
 
-The Maya Copy Light Attributes is a tool ...
+The Maya Light Attribute Copier Tool is a Python script that allows users to copy attributes from one light to other lights chosen by the user. The tool is customizable, meaning that users can filter the attributes they want to copy by editing the code.
+
 ### Features Copy Light Attributes
 TODO
 

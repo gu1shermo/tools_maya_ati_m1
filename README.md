@@ -4,6 +4,10 @@
 The Maya Light Manager is a tool written in Maya that allows you to manage all the attributes of lights in your scene. With this tool, you can easily select lights, enable/disable lights, as well as control their properties, such as color, intensity, and radius.
 The tool updates himself when adding / removing lights and all actions are synchronized with Maya UI.
 
+Light Manager        |  
+:-------------------------:   |
+![](./screenshots/tool1.jpg) |
+
 ### Features Light Manager
 
 The Maya Light Manager comes with a range of features that can help you streamline your lighting workflow, including:

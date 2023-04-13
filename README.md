@@ -18,10 +18,20 @@ The Maya Light Manager comes with a range of features that can help you streamli
 
 ## TOOL2: Light Attribute Copier
 
-The Maya Light Attribute Copier Tool is a Python script that allows users to copy attributes from one light to other lights chosen by the user. The tool is customizable, meaning that users can filter the attributes they want to copy by editing the code.
+The Maya Light Attribute Copier Tool is a Python script that allows users to copy attributes from one light to other lights chosen by the user. The tool is customizable, meaning that users can filter the attributes they want to appear by editing the code.
 
-### Features Copy Light Attributes
-TODO
+Light Attribute Copier       |  
+:-------------------------:   |
+![](./screenshots/tool2.jpg) |
+
+### Copy Light Attributes: how it works?
+<ol>
+  <li>Select one light source</li>
+  <li>Select the source light attributes you want to copy on the destination lights</li>
+  <li>Select one or more lights for destination</li>
+  <li>Click the copy button</li>
+  <li>If you create a new light click on the update button to make it appear</li>
+</ol>
 
 ## TOOL3: Auto Shader
 

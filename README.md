@@ -53,7 +53,7 @@ Auto Shader      |
 
 To install each one of the tools, follow these steps, which are common for any Python script:
 
-1. Download the latest version from the [releases](https://github.com/yourusername/maya-light-manager/releases) page.
+1. Download the latest version from the [releases](https://github.com/gu1shermo/tools_maya_ati_m1) page. (`autoshader.py`,`light_manager.py`,`copy_lights.py`)
 2. Open Maya and go to the Script Editor by selecting `Window > General Editors > Script Editor`.
 3. In the Script Editor, open the Python script you want to install by selecting `File > Open Script...` and browsing to the file location.
 4. Select all of the code in the file and drag it into the Python tab of the Script Editor.

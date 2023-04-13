@@ -62,6 +62,3 @@ To install each one of the tools, follow these steps, which are common for any P
 Once you've saved the script to a shelf button, you can easily access it from within Maya by clicking on the button on the shelf. You can also customize the button by right-clicking on it and selecting "Button Editor", where you can change the name, icon, and other properties of the button.
 
 Note that the exact steps for installing a script may vary depending on the script and the version of Maya you are using. It's always a good idea to consult the documentation or instructions provided with the script to ensure that you are installing it correctly.
-
-## License
-The Maya Light Manager is released under the [MIT License](LICENSE), which means you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions. See the full license for details.

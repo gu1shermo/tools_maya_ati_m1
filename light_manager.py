@@ -1,3 +1,6 @@
+# Author: Guillaume Cournet
+# Date: April 13, 2023
+
 from functools import partial
 
 

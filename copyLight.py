@@ -1,3 +1,6 @@
+# Author: Guillaume Cournet
+# Date: April 13, 2023
+
 from PySide2 import QtCore
 from PySide2 import QtWidgets
 from shiboken2 import wrapInstance

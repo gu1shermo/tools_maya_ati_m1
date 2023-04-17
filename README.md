@@ -46,6 +46,7 @@ Auto Shader      |
   <li>Choose a folder path that contains your texture maps.</li>
   <li>You can specify a regex pattern to filter your files(prefix, suffix, and keyword for the concerned map).</li>
   <li>If files are missing (pink square), you can choose the filepath by clicking on the square.</li>
+  <li>Select objects you want to apply the textures on.</li>
   <li>Click on the Apply Textures button</li>
 </ol>
 
